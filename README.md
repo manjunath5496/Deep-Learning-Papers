@@ -142,9 +142,9 @@
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-Papers/blob/master/dep(90).pdf" style="text-decoration:none;">Neural Machine Translation by Jointly Learning to Align and Translate</a></b></li>  
                                              
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-Papers/blob/master/dep(35).pdf" style="text-decoration:none;">Pixel Recurrent Neural Networks</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-Papers/blob/master/dep(91).pdf" style="text-decoration:none;">Towards End-to-End Speech Recognition with Recurrent Neural Networks</a></b></li>
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-Papers/blob/master/dep(36).pdf" style="text-decoration:none;">Matching Networks for One Shot Learning</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-Papers/blob/master/dep(92).pdf" style="text-decoration:none;">Every Picture Tells a Story: Generating Sentences from Images</a></b></li>
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-Papers/blob/master/dep(37).pdf" style="text-decoration:none;">Dropout: A Simple Way to Prevent Neural Networks from Overfitting</a></b></li>                         
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-Papers/blob/master/dep(38).pdf" style="text-decoration:none;">Fully Convolutional Networks for Semantic Segmentation</a></b></li>  
