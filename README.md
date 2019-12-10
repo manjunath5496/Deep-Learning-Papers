@@ -117,29 +117,29 @@
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-Papers/blob/master/dep(75).pdf" style="text-decoration:none;">Dueling Network Architectures for Deep Reinforcement Learning</a></b></li>  
 
   
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-Papers/blob/master/dep(20).pdf" style="text-decoration:none;">Deep Visual-Semantic Alignments for Generating Image Descriptions</a></b></li>  
-     <li><b><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-Papers/blob/master/dep(21).pdf" style="text-decoration:none;">Learning to Navigate in Complex Environments </a></b></li>  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-Papers/blob/master/dep(22).pdf" style="text-decoration:none;">Human-level control through deep reinforcement learning</a></b></li>  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-Papers/blob/master/dep(76).pdf" style="text-decoration:none;">A Character-Level Decoder without Explicit Segmentation for Neural Machine Translation</a></b></li>  
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-Papers/blob/master/dep(77).pdf" style="text-decoration:none;">Show and Tell: A Neural Image Caption Generator </a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-Papers/blob/master/dep(78).pdf" style="text-decoration:none;">Continuous control with deep reinforcement learning</a></b></li>  
 
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-Papers/blob/master/dep(23).pdf" style="text-decoration:none;">Learning a Recurrent Visual Representation for Image Caption Generation</a></b></li>  
-     <li><b><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-Papers/blob/master/dep(24).pdf" style="text-decoration:none;">Collective Robot Reinforcement Learning with Distributed Asynchronous Guided Policy Search</a></b></li>  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-Papers/blob/master/dep(25).pdf" style="text-decoration:none;">Progressive Neural Networks</a></b></li>  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-Papers/blob/master/dep(79).pdf" style="text-decoration:none;">Deep Neural Networks for Acoustic Modeling in Speech Recognition</a></b></li>  
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-Papers/blob/master/dep(80).pdf" style="text-decoration:none;">Layer Normalization</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-Papers/blob/master/dep(81).pdf" style="text-decoration:none;">Adam: A Method for Stochastic Optimization</a></b></li>  
 
   
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-Papers/blob/master/dep(26).pdf" style="text-decoration:none;">Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition</a></b></li>  
-     <li><b><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-Papers/blob/master/dep(27).pdf" style="text-decoration:none;">Instance-aware Semantic Segmentation via Multi-task Network Cascades</a></b></li>  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-Papers/blob/master/dep(28).pdf" style="text-decoration:none;">Auto-Encoding Variational Bayes</a></b></li>  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-Papers/blob/master/dep(82).pdf" style="text-decoration:none;">Actor-Mimic: Deep Multitask and Transfer Reinforcement Learning</a></b></li>  
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-Papers/blob/master/dep(83).pdf" style="text-decoration:none;">End-To-End Memory Networks</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-Papers/blob/master/dep(84).pdf" style="text-decoration:none;">Generative Adversarial Nets</a></b></li>  
 
    
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-Papers/blob/master/dep(29).pdf" style="text-decoration:none;">Conditional Image Generation with PixelCNN Decoders</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-Papers/blob/master/dep(85).pdf" style="text-decoration:none;">On the importance of initialization and momentum in deep learning</a></b></li>
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-Papers/blob/master/dep(30).pdf" style="text-decoration:none;">Evolving Large-Scale Neural Networks for Vision-Based Reinforcement Learning</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-Papers/blob/master/dep(86).pdf" style="text-decoration:none;">Playing Atari with Deep Reinforcement Learning</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-Papers/blob/master/dep(31).pdf" style="text-decoration:none;">Generating Sequences With Recurrent Neural Networks</a></b></li>                         
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-Papers/blob/master/dep(32).pdf" style="text-decoration:none;">Target-driven Visual Navigation in Indoor Scenes using Deep Reinforcement Learning</a></b></li>  
-     <li><b><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-Papers/blob/master/dep(33).pdf" style="text-decoration:none;">From Captions to Visual Concepts and Back</a></b></li>  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-Papers/blob/master/dep(34).pdf" style="text-decoration:none;">Building High-level Features Using Large Scale Unsupervised Learning</a></b></li>  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-Papers/blob/master/dep(87).pdf" style="text-decoration:none;">Fully Character-Level Neural Machine Translation without Explicit Segmentation</a></b></li>                         
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-Papers/blob/master/dep(88).pdf" style="text-decoration:none;">Pointer Networks</a></b></li>  
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-Papers/blob/master/dep(89).pdf" style="text-decoration:none;">Speech Recognition with Deep Recurrent Neural Networks</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-Papers/blob/master/dep(90).pdf" style="text-decoration:none;">Neural Machine Translation by Jointly Learning to Align and Translate</a></b></li>  
                                              
 
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-Papers/blob/master/dep(35).pdf" style="text-decoration:none;">Pixel Recurrent Neural Networks</a></b></li>
