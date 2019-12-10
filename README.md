@@ -153,27 +153,26 @@
                                              
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-Papers/blob/master/dep(97).pdf" style="text-decoration:none;">Achieving Human Parity in Conversational Speech Recognition</a></b></li>                         
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-Papers/blob/master/dep(98).pdf" style="text-decoration:none;">Effective Approaches to Attention-based Neural Machine Translation</a></b></li>  
-     <li><b><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-Papers/blob/master/dep(99).pdf" style="text-decoration:none;">Learning to Segment Object Candidates</a></b></li>  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-Papers/blob/master/dep(44).pdf" style="text-decoration:none;">Deep Captioning with Multimodal Recurrent Neural Networks (m-RNN)</a></b></li>  
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-Papers/blob/master/dep(99).pdf" style="text-decoration:none;">Memory Networks</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-Papers/blob/master/dep(100).pdf" style="text-decoration:none;">Very Deep Convolutional Networks for Large-Scale Image Recognition</a></b></li>  
                                              
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-Papers/blob/master/dep(45).pdf" style="text-decoration:none;">Deep Reinforcement Learning for Robotic Manipulation with Asynchronous Off-Policy Updates</a></b></li>  
-     <li><b><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-Papers/blob/master/dep(46).pdf" style="text-decoration:none;">Learning to Track at 100 FPS with Deep Regression Networks</a></b></li>  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-Papers/blob/master/dep(47).pdf" style="text-decoration:none;">Asynchronous Methods for Deep Reinforcement Learning</a></b></li>  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-Papers/blob/master/dep(101).pdf" style="text-decoration:none;">Reinforcement Learning Neural Turing Machines</a></b></li>  
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-Papers/blob/master/dep(102).pdf" style="text-decoration:none;">Neural Machine Translation of Rare Words with Subword Units</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-Papers/blob/master/dep(103).pdf" style="text-decoration:none;">Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift</a></b></li>  
 
   
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-Papers/blob/master/dep(48).pdf" style="text-decoration:none;">One-shot Learning with Memory-Augmented Neural Networks</a></b></li>  
-     <li><b><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-Papers/blob/master/dep(49).pdf" style="text-decoration:none;">Transferring Rich Feature Hierarchies for Robust Visual Tracking </a></b></li>  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-Papers/blob/master/dep(50).pdf" style="text-decoration:none;">Deep learning</a></b></li>  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-Papers/blob/master/dep(104).pdf" style="text-decoration:none;">Sequence to Sequence Learning with Neural Networks</a></b></li>  
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-Papers/blob/master/dep(105).pdf" style="text-decoration:none;">Addressing the Rare Word Problem in Neural Machine Translation </a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-Papers/blob/master/dep(106).pdf" style="text-decoration:none;">Sequence to Sequence Learning with Neural Networks</a></b></li>  
 
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-Papers/blob/master/dep(51).pdf" style="text-decoration:none;">Rich feature hierarchies for accurate object detection and semantic segmentation</a></b></li>  
-     <li><b><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-Papers/blob/master/dep(52).pdf" style="text-decoration:none;">Beyond Correlation Filters: Learning Continuous Convolution Operators for Visual Tracking</a></b></li>  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-Papers/blob/master/dep(53).pdf" style="text-decoration:none;">Fully-Convolutional Siamese Networks for Object Tracking</a></b></li>  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-Papers/blob/master/dep(107).pdf" style="text-decoration:none;">Distributed Representations ofWords and Phrases and their Compositionality</a></b></li>  
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-Papers/blob/master/dep(108).pdf" style="text-decoration:none;">Distilling the Knowledge in a Neural Network</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-Papers/blob/master/dep(109).pdf" style="text-decoration:none;">A Neural Conversational Model</a></b></li>  
 
   
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-Papers/blob/master/dep(54).pdf" style="text-decoration:none;">DRAW: A Recurrent Neural Network For Image Generation</a></b></li>  
-     <li><b><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-Papers/blob/master/dep(55).pdf" style="text-decoration:none;">Learning a Deep Compact Image Representation for Visual Tracking</a></b></li>  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-Papers/blob/master/dep(56).pdf" style="text-decoration:none;">Human-level concept learning through probabilistic program induction</a></b></li>  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-Papers/blob/master/dep(110).pdf" style="text-decoration:none;">A Learned Representation For Artistic Style</a></b></li>  
+  
 
 
 </ul>
