@@ -146,14 +146,14 @@
   
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-Papers/blob/master/dep(92).pdf" style="text-decoration:none;">Every Picture Tells a Story: Generating Sentences from Images</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-Papers/blob/master/dep(37).pdf" style="text-decoration:none;">Dropout: A Simple Way to Prevent Neural Networks from Overfitting</a></b></li>                         
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-Papers/blob/master/dep(38).pdf" style="text-decoration:none;">Fully Convolutional Networks for Semantic Segmentation</a></b></li>  
-     <li><b><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-Papers/blob/master/dep(39).pdf" style="text-decoration:none;">Long-term Recurrent Convolutional Networks for Visual Recognition and Description</a></b></li>  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-Papers/blob/master/dep(40).pdf" style="text-decoration:none;">Learning to learn by gradient descent by gradient descent</a></b></li>  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-Papers/blob/master/dep(93).pdf" style="text-decoration:none;">Deep Learning of Representations for Unsupervised and Transfer Learning</a></b></li>                         
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-Papers/blob/master/dep(94).pdf" style="text-decoration:none;">Joint Learning of Words and Meaning Representations for Open-Text Semantic Parsing</a></b></li>  
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-Papers/blob/master/dep(95).pdf" style="text-decoration:none;">Reducing the Dimensionality of Data with Neural Networks</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-Papers/blob/master/dep(96).pdf" style="text-decoration:none;">Fast and Accurate Recurrent Neural Network Acoustic Models for Speech Recognition</a></b></li>  
                                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-Papers/blob/master/dep(41).pdf" style="text-decoration:none;">Semantic Style Transfer and Turning Two-Bit Doodles into Fine Artwork</a></b></li>                         
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-Papers/blob/master/dep(42).pdf" style="text-decoration:none;">SSD: Single Shot MultiBox Detector</a></b></li>  
-     <li><b><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-Papers/blob/master/dep(43).pdf" style="text-decoration:none;">Learning to Segment Object Candidates</a></b></li>  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-Papers/blob/master/dep(97).pdf" style="text-decoration:none;">Achieving Human Parity in Conversational Speech Recognition</a></b></li>                         
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-Papers/blob/master/dep(98).pdf" style="text-decoration:none;">Effective Approaches to Attention-based Neural Machine Translation</a></b></li>  
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-Papers/blob/master/dep(99).pdf" style="text-decoration:none;">Learning to Segment Object Candidates</a></b></li>  
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-Papers/blob/master/dep(44).pdf" style="text-decoration:none;">Deep Captioning with Multimodal Recurrent Neural Networks (m-RNN)</a></b></li>  
                                              
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-Papers/blob/master/dep(45).pdf" style="text-decoration:none;">Deep Reinforcement Learning for Robotic Manipulation with Asynchronous Off-Policy Updates</a></b></li>  
